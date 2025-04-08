@@ -61,4 +61,4 @@ Model summary (fused): 168 layers, 3006428 parameters, 0 gradients, 8.1 GFLOPs
 Speed: 0.1ms preprocess, 1.9ms inference, 0.0ms loss, 2.4ms postprocess per image
 ```
 
-look at them and contemplate wether you would get better results training it yourself. hello
+look at them and contemplate wether you would get better results training it yourself. hello2
