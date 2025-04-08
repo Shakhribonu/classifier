@@ -1,0 +1,16 @@
+#train: ./data/train/images
+#val: ./data/test/images
+#test: ./data/test/images
+train: /Users/shahribonu/Desktop/MASTERS/classification/DentalXrayAI/data/train/images
+val: /Users/shahribonu/Desktop/MASTERS/classification/DentalXrayAI/data/test/images
+test: /Users/shahribonu/Desktop/MASTERS/classification/DentalXrayAI/data/test/images
+
+nc: 4
+names: [ 'Caries', 'Deep Caries', 'Impacted', 'Periapical Lesion' ]
+
+roboflow:
+  workspace: shahribonuotaqulova01gmailcom
+  project: dentex-3xe7e-z20tu
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/shahribonuotaqulova01gmailcom/dentex-3xe7e-z20tu/dataset/1
